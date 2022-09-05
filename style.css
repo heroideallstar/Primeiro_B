@@ -1,7 +1,9 @@
 p{ 
   text-align:center;
-  background-color:#cccccc;
   font-size:30px;
+}
+body{
+    background-color:#cccccc;
 }
 
 /* Ketchup: #F00501
