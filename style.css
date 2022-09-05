@@ -1,10 +1,17 @@
 p{ 
   text-align: center;
-  background: #cccccc;
+  background: #D2FA7B;
+  font-size: 30px;
 }
-em strong {
-  color: red;
-}
+
 #dogao{
   width: 25%;
 }
+
+/*
+Ketchup: #F00501
+Mostarda: #FA9601
+Maionese: #F0EE96
+Vina: #E64001
+Molho verde:#D2FA7B
+*/
