@@ -5,6 +5,23 @@ p{
 body{
     background-color:#F00501;
 }
+.cabecalho{
+  border: 20px double #ffffff
+}
+.ii{
+  font-size: 50px;
+  display: inline-block;
+  border: 10px solid #ffffff;
+  padding: 2%;
+  color: black:
+  text-align: left;
+}
+.dog{
+  padding: 2%;
+  margin-left: 43%;
+  display: inline-block;
+}
+  
 
 /* Ketchup: #F00501
 Mostarda: #FA9601
