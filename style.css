@@ -22,7 +22,7 @@ body{
   display: inline-block;
 }
 .sabores{ 
-  display: flex;
+  display: inline-block;
   padding: 2%;
 }
   
